@@ -1,0 +1,5 @@
+1 - Gerar um novo arquivo CSV com os resultado
+
+2 - Criar uma aplicação para carregar dois arquivos CSV
+
+3 - Acrescentar Excel nas opções
